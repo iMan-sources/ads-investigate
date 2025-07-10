@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		6A2700A36CAEC110F53E0488 /* Pods_ads_invt.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 174FB60B5F182259AFD8DCF0 /* Pods_ads_invt.framework */; };
+		D2BE3A9A2E200B3C00050783 /* AdView.swift in Sources */ = {isa = PBXBuildFile; fileRef = D2BE3A992E200B3C00050783 /* AdView.swift */; };
 		D2D979432E1EA68200564518 /* AdsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D2D979422E1EA68200564518 /* AdsViewController.swift */; };
 		D2D979452E1EAA6A00564518 /* NativeAdStyleTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = D2D979442E1EAA6A00564518 /* NativeAdStyleTableViewCell.swift */; };
 		D2EB42672E1C06AE00255C65 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = D2EB42662E1C06AE00255C65 /* AppDelegate.swift */; };
@@ -22,6 +23,7 @@
 		04FC8A2A211E23A4FA2FC920 /* Pods-ads-invt.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-ads-invt.debug.xcconfig"; path = "Target Support Files/Pods-ads-invt/Pods-ads-invt.debug.xcconfig"; sourceTree = "<group>"; };
 		174FB60B5F182259AFD8DCF0 /* Pods_ads_invt.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_ads_invt.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		869E5D5E97A1D67DA764E254 /* Pods-ads-invt.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-ads-invt.release.xcconfig"; path = "Target Support Files/Pods-ads-invt/Pods-ads-invt.release.xcconfig"; sourceTree = "<group>"; };
+		D2BE3A992E200B3C00050783 /* AdView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AdView.swift; sourceTree = "<group>"; };
 		D2D979422E1EA68200564518 /* AdsViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AdsViewController.swift; sourceTree = "<group>"; };
 		D2D979442E1EAA6A00564518 /* NativeAdStyleTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NativeAdStyleTableViewCell.swift; sourceTree = "<group>"; };
 		D2EB42632E1C06AE00255C65 /* ads-invt.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "ads-invt.app"; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -93,6 +95,7 @@
 				D2EB42742E1C06AF00255C65 /* Info.plist */,
 				D2D979422E1EA68200564518 /* AdsViewController.swift */,
 				D2D979442E1EAA6A00564518 /* NativeAdStyleTableViewCell.swift */,
+				D2BE3A992E200B3C00050783 /* AdView.swift */,
 			);
 			path = "ads-invt";
 			sourceTree = "<group>";
@@ -215,6 +218,7 @@
 				D2D979452E1EAA6A00564518 /* NativeAdStyleTableViewCell.swift in Sources */,
 				D2EB426B2E1C06AE00255C65 /* ViewController.swift in Sources */,
 				D2D979432E1EA68200564518 /* AdsViewController.swift in Sources */,
+				D2BE3A9A2E200B3C00050783 /* AdView.swift in Sources */,
 				D2EB42672E1C06AE00255C65 /* AppDelegate.swift in Sources */,
 				D2EB42692E1C06AE00255C65 /* SceneDelegate.swift in Sources */,
 			);
